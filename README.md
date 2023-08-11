@@ -9,37 +9,23 @@
   <h3 style="color: white;">Connect with me:</h3>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   <p align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/parjal-rai-3853b7164/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
     </a>
   </p>
-  
+
+
+
 
   <h3 style="color: white;">Languages and Tools:</h3>
   <p align="center">
     <!-- Add your icons here -->
   </p>
 
-
   <p align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pockche123&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pockche123&show_icons=true&locale=en" alt="GitHub Stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=pockche123&show_icons=true&locale=en" alt="GitHub Stats">
   </p>
 
 
