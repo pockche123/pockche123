@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Parjal</h1>
 <h3 align="center">A passionate full-stack developer based in the UK</h3>
-<img src="https://giphy.com/gifs/animation-computer-programmers-nGMnDqebzDcfm/fullscreen" alt="cowboy coder" width="400" align="right">
+<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pockche123&label=Profile%20views&color=0e75b6&style=flat" alt="pockche123" /> </p>
 
