@@ -7,6 +7,22 @@
 - 📫 How to reach me **bayingray123@gmail.com**
 
   <h3 style="color: white;">Connect with me:</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   <p align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/parjal-rai-3853b7164/" target="blank">
