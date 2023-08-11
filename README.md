@@ -1,19 +1,15 @@
+<h1 align="center">Hi 👋, I'm Parjal Rai</h1>
+<h5 align="center">A passionate full-stack developer based in the UK</h5>
+<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
 
-  <h1 align="center" style="color: white;">Welcome to my Github!</h1>
-  <p align="center">
-  </p>
 
-  <h1 align="center" style="color: white;">Hi 👋, I'm Parjal</h1>
-  <h3 align="center" style="color: white;">A passionate full-stack developer based in the UK</h3>
-  <p align="center">
-    <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
-  </p>
 
-  <p align="center" style="color: white;">
-    🌱 I’m currently learning <strong>spring and react framework.</strong>
-    <br>
-    📫 How to reach me <strong>bayingray123@gmail.com</strong>
-  </p>
+- 🌱 I’m currently learning **spring and react framework.**
+
+- 📫 How to reach me **bayingray123@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
 
   <h3 style="color: white;">Connect with me:</h3>
   <p align="center">
