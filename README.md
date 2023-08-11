@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning **spring and react framework.**
 
 - 📫 How to reach me **bayingray123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 
 
   <h3 style="color: white;">Connect with me:</h3>
