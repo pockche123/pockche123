@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning **spring and react framework.**
 
 - 📫 How to reach me **bayingray123@gmail.com**
-- 
+
+
+
 
 
   <h3 style="color: white;">Connect with me:</h3>
@@ -16,7 +18,8 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
     </a>
   </p>
-
+<p></p>
+<p></p>
   <h3 style="color: white;">Languages and Tools:</h3>
   <p align="center">
     <!-- Add your icons here -->
