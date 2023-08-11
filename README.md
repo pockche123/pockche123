@@ -8,7 +8,7 @@
 - 📫 How to reach me **bayingray123@gmail.com**
 
   <h3 style="color: white;">Connect with me:</h3>
-
+<br><br>
 
   <p align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/parjal-rai-3853b7164/" target="blank">
@@ -16,7 +16,7 @@
     </a>
   </p>
 
-<br><br> <br>
+<br><br> <br><br>
 
 
   <h3 style="color: white;">Languages and Tools:</h3>
@@ -28,7 +28,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pockche123&show_icons=true&locale=en&layout=compact" alt="Top Languages">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=pockche123&show_icons=true&locale=en" alt="GitHub Stats">
   </p>
-
+<br><br>
 
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pockche123&" alt="GitHub Streak Stats">
