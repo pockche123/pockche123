@@ -4,10 +4,6 @@
 <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
 
 
-
-
-
-
 - 🌱 I’m currently learning **spring and react framework.**
 
 - 📫 How to reach me **bayingray123@gmail.com**
