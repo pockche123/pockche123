@@ -2,6 +2,7 @@
 <h5 align="center">A passionate full-stack developer based in the UK</h5>
 <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
 
+ <br><br>
 - 🌱 I’m currently learning **spring and react framework.**
 
 - 📫 How to reach me **bayingray123@gmail.com**
@@ -15,7 +16,7 @@
     </a>
   </p>
 
-<br><br>
+<br><br> <br>
 
 
   <h3 style="color: white;">Languages and Tools:</h3>
