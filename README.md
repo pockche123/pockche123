@@ -2,7 +2,8 @@
 <h3 align="center">Hi 👋, I'm Parjal</h3>
 <h5 align="center">A passionate full-stack developer based in the UK</h5>
 <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
-
+<p/>
+<p/>
 
 - 🌱 I’m currently learning **spring and react framework.**
 
