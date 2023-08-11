@@ -29,9 +29,6 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=pockche123&show_icons=true&locale=en" alt="GitHub Stats">
   </p>
 
-<br>
-<br>
-<br>
 
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pockche123&" alt="GitHub Streak Stats">
