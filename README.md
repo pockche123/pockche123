@@ -1,15 +1,12 @@
-<div style="background-color: black; padding: 20px;">
+
   <h1 align="center" style="color: white;">Welcome to my Github!</h1>
   <p align="center">
-    <a href="https://scrimba.com/articles/content/images/size/w600/2023/01/How-long-does-it-take-to-learn-React_.png">
-      <img src="https://scrimba.com/articles/content/images/size/w600/2023/01/How-long-does-it-take-to-learn-React_.png" alt="MasterHead" style="max-width: 100%; height: auto;">
-    </a>
   </p>
 
   <h1 align="center" style="color: white;">Hi 👋, I'm Parjal</h1>
   <h3 align="center" style="color: white;">A passionate full-stack developer based in the UK</h3>
   <p align="center">
-    <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400">
+    <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
   </p>
 
   <p align="center" style="color: white;">
@@ -38,7 +35,7 @@
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pockche123&" alt="GitHub Streak Stats">
   </p>
-</div>
+
 
 
 
