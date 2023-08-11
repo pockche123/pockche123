@@ -1,6 +1,6 @@
 ### Welcome to my Github! 
+[![MasterHead](https://scrimba.com/articles/content/images/size/w600/2023/01/How-long-does-it-take-to-learn-React_.png)](https://scrimba.com/articles/content/images/size/w600/2023/01/How-long-does-it-take-to-learn-React_.png)
 
-[![MasterHead] (https://scrimba.com/articles/content/images/size/w600/2023/01/How-long-does-it-take-to-learn-React_.png)]
 
 <h1 align="center">Hi 👋, I'm Parjal</h1>
 <h3 align="center">A passionate full-stack developer based in the UK</h3>
