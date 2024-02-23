@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="cowboy coder" width="400" align="right">
 
  <br><br><br>
-- 🌱 I’m currently learning **spring framework and react.**
+- 🌱 I’m currently learning **azure devops and CI/CD pipeline.**
 
 - 📫 How to reach me **bayingray123@gmail.com**
 
